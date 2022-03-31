@@ -1,6 +1,6 @@
-# :sparkling_heart: Naing Naing Tun & Wai Thi Tun :sparkling_heart:
+# :sparkling_heart: Htein Win Aung & Khaing Zar Win :sparkling_heart:
 ### Wedding Invitation
 
-Preview in :point_right: https://developernaingtun.github.io/
+Preview in :point_right: https://bosshtein.github.io/
 
 This is the template for my wedding invitation card.
