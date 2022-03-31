@@ -1,0 +1,89 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+body{
+    /*background-color: rgb(255, 255, 255);*/
+    /* background-image: linear-gradient(to top, rgba(92, 97, 43, 0), rgb(253, 187, 44)); */
+    background-image: url("4728244.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;	
+    min-height: 100%;
+	background-position: left;
+	opacity: 1;
+	
+}
+h1{
+    position: relative;
+    width: 100%;
+    /*padding-top: 100px;*/
+    text-align: center;
+    font-family: Pyidaungsu;
+    font-size: 3em;
+    color: black;
+    
+    /* 
+    font-weight: 5em; 
+    text-decoration: underline;
+    */
+}
+h2{
+    position: relative;
+    width: 100%;
+    padding-top: 60px;
+    text-align: center;
+    font-family: Pyidaungsu;
+    font-size: 2.5em;
+    color: black;
+    
+    /* 
+    font-weight: 5em; 
+    text-decoration: underline;
+    */
+}
+#container{
+    margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+    width: 80vw;
+    height: 90vh;
+    
+    /* background-image: url("41314.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    box-shadow: 30px 30px 15px grey;
+    */
+    
+    
+}
+#border{
+    left: 15%;
+    position: relative;
+    width: 70%;
+}
+#container {
+    /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(46, 47, 139)); */
+}
+#inviteLetter{
+    font-size: 2em;
+    text-align: center;
+    font-family: Pyidaungsu;
+}
+iframe{
+    width: 100%;
+    height: 30vh;
+}
+.carousel .item {
+  width: 100%;
+  height: 60vh;
+}
+
+.item img {
+    position: relative;	
+    top: 0;
+    left: 0;
+	min-width: 100%;
+    min-height: 60vh;
+}
